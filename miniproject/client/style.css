@@ -1,0 +1,16 @@
+* {
+    background-image: url("10.jpg");
+}
+.split {
+    display: flex;
+    flex-direction: row;
+}
+.first {
+    margin: 40px;
+}
+.second {
+    margin: 40px;
+}
+.third {
+    margin: 40px;
+}
